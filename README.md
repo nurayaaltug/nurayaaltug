@@ -1,6 +1,8 @@
 <h1 align="left">Hi  👋, I'm Nuray Altuğ </h1>
 
-![giphy][(https://media.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif)]
+ <img src="![giphy](https://user-images.githubusercontent.com/56605130/235522619-10fa085f-4b86-4b73-89d3-abf41ecf697a.gif)
+ "> 
+<hr>
 
 - 🤍 I’m currently working on my first Spring Boot project Blog App
 
