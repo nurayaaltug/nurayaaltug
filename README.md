@@ -1,6 +1,6 @@
 <h1 align="left">Hi  👋, I'm Nuray Altuğ </h1>
 
- <img src="![giphy](https://user-images.githubusercontent.com/56605130/235523165-dbd7b563-529c-4e7f-b44d-339a48f3c259.gif)
+ <img src="![giphy](https://media.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif)
 "> 
 <hr>
 
