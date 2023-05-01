@@ -1,10 +1,7 @@
-<div style="display: flex; align-items: center;">
-  <div>
-    <h1 style="font-weight: bold;">Hi 👋, I'm Nuray Altuğ.</h1>
- 
-  </div>
-  <img src="https://user-images.githubusercontent.com/56605130/235526710-73eb6810-853b-4316-8631-2c1f1613b449.png" alt="java logo" style="width: 100px; height: 100px; margin-left: 20px;">
-</div>
+
+# ![droid](https://img.icons8.com/color-glass/48/000000/android-os.png)  Hi, I'm Yağmur!
+
+<img src="[https://user-images.githubusercontent.com/47380312/130993587-777dfd41-5c50-45fc-b4ec-d8a65f0b32c9.png](https://user-images.githubusercontent.com/56605130/235526710-73eb6810-853b-4316-8631-2c1f1613b449.png)" align="left" width="35%"/>
 
 
 
