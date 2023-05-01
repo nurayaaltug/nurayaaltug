@@ -11,8 +11,8 @@
 <img align = "center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nurayaaltug&theme=ocean-dark)](https://git.io/streak-stats)">
 </p>
  <!-- <p>
-  <a href="https://github.com/nurayaltug?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurayaltug&layout=compact&show_icons=true&theme=nord">
+  <a href="https://github.com/nurayaaltug?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurayaaltug&layout=compact&show_icons=true&theme=nord">
   </a>
   </p> -->
 
