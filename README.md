@@ -1,5 +1,8 @@
-# Hi 👋, I'm Nuray Altuğ
-![java](https://user-images.githubusercontent.com/56605130/235526710-73eb6810-853b-4316-8631-2c1f1613b449.png)
+<div style="display: flex; align-items: center;">
+  <img src="https://user-images.githubusercontent.com/56605130/235526710-73eb6810-853b-4316-8631-2c1f1613b449.png" alt="java logo" style="width: 100px; height: 100px; margin-right: 20px;">
+  <p>Hi 👋, I'm Nuray Altuğ.</p>
+</div>
+
 
 
  <img src="![giphy](https://media.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif)
