@@ -11,6 +11,7 @@
 
 <p> 
 <img align = "center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nurayaaltug&theme=ocean-dark)](https://git.io/streak-stats)">
+<p/>
  
 
 ![Nuray Altug's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurayaaltug&show_icons=true)
