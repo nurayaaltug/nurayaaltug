@@ -6,9 +6,7 @@
 
 
 
- <img src="![giphy](https://media.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif)
-"> 
-<hr>
+
 
 - 🤍 I’m currently working on my first Spring Boot project Blog App
 
