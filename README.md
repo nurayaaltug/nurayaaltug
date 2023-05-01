@@ -1,7 +1,7 @@
 
-# ![java](https://user-images.githubusercontent.com/56605130/235528929-d5e76fea-2062-4aaa-8fd9-05a22a8a0331.png))  Hi, I'm Nuray!
+# ![java](https://user-images.githubusercontent.com/56605130/235528929-d5e76fea-2062-4aaa-8fd9-05a22a8a0331.png)  Hi, I'm Nuray!
 
-<img src="[https://user-images.githubusercontent.com/47380312/130993587-777dfd41-5c50-45fc-b4ec-d8a65f0b32c9.png](https://user-images.githubusercontent.com/56605130/235526710-73eb6810-853b-4316-8631-2c1f1613b449.png)" align="left" width="35%"/>
+<img src="[https://user-images.githubusercontent.com/47380312/130993587-777dfd41-5c50-45fc-b4ec-d8a65f0b32c9.png](https://user-images.githubusercontent.com/56605130/235528929-d5e76fea-2062-4aaa-8fd9-05a22a8a0331.png)" align="left" width="35%"/>
 
 
 
