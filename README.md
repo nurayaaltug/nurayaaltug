@@ -10,7 +10,7 @@
 
 
 <p> 
-<img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=nurayaaltug&theme=blueberry_duo">
+<img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=nurayaaltug&theme=blueberry_duo](https://github-readme-streak-stats.herokuapp.com?user=nurayaaltug&theme=discord-old-blurple)">
 <p/>
  
 
