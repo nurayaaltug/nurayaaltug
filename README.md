@@ -1,5 +1,5 @@
 
-# ![java](https://user-images.githubusercontent.com/56605130/235528929-d5e76fea-2062-4aaa-8fd9-05a22a8a0331.png)  Hi, I'm Nuray!
+#   Hi, I'm Nuray!
 
 <img src="https://user-images.githubusercontent.com/56605130/235528929-d5e76fea-2062-4aaa-8fd9-05a22a8a0331.png" align="left" width="35%"/>
 
