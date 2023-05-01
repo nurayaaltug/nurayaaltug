@@ -10,10 +10,10 @@
 <p> 
 <img align = "center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nurayaaltug&theme=ocean-dark)](https://git.io/streak-stats)">
 </p>
- <!-- <p>
+  <p>
   <a href="https://github.com/nurayaaltug?tab=repositories" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurayaaltug&layout=compact&show_icons=true&theme=nord">
   </a>
-  </p> -->
+  </p> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurayaaltug&hide_progress=true)](https://github.com/nurayaaltug/github-readme-stats)
