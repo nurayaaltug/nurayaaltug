@@ -1,6 +1,6 @@
 <h1 align="left">Hi  👋, I'm Nuray Altuğ </h1>
 
-![giphy][(https://media.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif)](https://giphy.com/gifs/ign-describe-plans-13HBDT4QSTpveU)
+![giphy][(https://media.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif)]
 
 - 🤍 I’m currently working on my first Spring Boot project Blog App
 
