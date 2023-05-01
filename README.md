@@ -10,7 +10,8 @@
 
 
 <p> 
-<img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=nurayaaltug&theme=blueberry_duo](https://github-readme-streak-stats.herokuapp.com?user=nurayaaltug&theme=discord-old-blurple)">
+<img align = "center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nurayaaltug)](https://git.io/streak-stats)
+">
 <p/>
  
 
